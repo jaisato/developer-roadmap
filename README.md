@@ -3,8 +3,8 @@
 
 > Roadmap to becoming a web developer in 2020
 
-[![](https://img.shields.io/badge/-Roadmaps%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](http://roadmap.sh)
-[![](https://img.shields.io/badge/-Guides-0a0a0a.svg?style=flat&colorA=0a0a0a)](http://roadmap.sh/guides)
+[![](https://img.shields.io/badge/-Roadmaps%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://roadmap.sh)
+[![](https://img.shields.io/badge/-Guides-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://roadmap.sh/guides)
 [![](https://img.shields.io/badge/-Translations-0a0a0a.svg?style=flat&colorA=0a0a0a)](./translations)
 [![](https://img.shields.io/badge/%E2%9D%A4-YouTube%20Channel-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://www.youtube.com/channel/UCA0H2KIWgWTwpTFjSxp0now?sub_confirmation=1)
 
@@ -62,7 +62,7 @@ If you think that these can be improved in any way, please do suggest.
 
 ## 🚦 Wrap Up
 
-If you think any of the roadmaps can be improved, feel free to discuss it in the issues. Also, I will continue to improve this, so you might want to watch this repository or subscribe at [roadmap.sh](http://roadmap.sh) to revisit.
+If you think any of the roadmaps can be improved, feel free to discuss it in the issues. Also, I will continue to improve this, so you might want to watch this repository or subscribe at [roadmap.sh](https://roadmap.sh) to revisit.
 
 ## 🙌 Contribution
 
